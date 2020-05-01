@@ -1,0 +1,2 @@
+# CudaBrot
+Mandelbrot using CUDA
